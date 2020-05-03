@@ -1,0 +1,154 @@
+[
+
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Chinese",
+        "cost": "1000",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Indian",
+        "cost": "200",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Italian",
+        "cost": "5000",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Chinese",
+        "cost": "450",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Indian",
+        "cost": "600",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Maharashtrian",
+        "cost": "100",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Mexican",
+        "cost": "10",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Muglai",
+        "cost": "8",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Healthy",
+        "cost": "4200",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "South-Indian",
+        "cost": "340",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Espana",
+        "cost": "500",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Espana",
+        "cost": "10",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Bolongnese",
+        "cost": "1050",
+        "city": "Delhi"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Indian",
+        "cost": "5000",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Indian",
+        "cost": "1000",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Italian",
+        "cost": "1600",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Espana",
+        "cost": "580",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Italian",
+        "cost": "3500",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Mexican",
+        "cost": "3000",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "South-Indian",
+        "cost": "900",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Mexican",
+        "cost": "700",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Healthy",
+        "cost": "4000",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Healthy",
+        "cost": "8700",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Non-Vegetarian",
+        "cuisine": "Healthy",
+        "cost": "560",
+        "city": "Mumbai"
+    },
+    {
+        "preference": "Vegetarian",
+        "cuisine": "Indian",
+        "cost": "800",
+        "city": "Mumbai"
+    }
+
+]
